@@ -1,297 +1,297 @@
-Agonda Beach , (15.0437626, 73.9857577)
-Palolem Beach , (15.0099648, 74.02321859999999)
-Mandrem Beach , None
-Cavelossim Beach , (15.1715011, 73.941493)
-Varca Beach , (15.2209348, 73.9290015)
-Benaulim Beach , (15.2570626, 73.91871379999999)
-Basilica of Bom Jesus , None
-Arambol Beach , (15.6846886, 73.70328359999999)
-Utorda Beach , (15.3180882, 73.8996066)
-Dudhsagar Falls , (15.3144691, 74.314067)
-Morjim , (15.6316233, 73.7389596)
-Ashwem Beach , (15.6437966, 73.71740249999999)
-Cola Beach , (15.0645446, 73.9712454)
-Old Goa , (15.5027745, 73.9154069)
-Candolim Beach , (15.5183861, 73.7654787)
-Vagator Beach , (15.6029835, 73.733627)
-Majorda Beach , (15.3111553, 73.9018114)
-Tomb of St. Francis Xavier , None
-Baga Beach , (15.5556936, 73.75164699999999)
-Church of Our Lady of the Immaculate Conception , (15.498333, 73.829444)
-Se Cathedral , None
-Shantadurga Temple , (15.2604729, 73.97592639999999)
-Chapora Fort , (15.620702, 73.74484369999999)
-Sinquerim Beach , (15.5302398, 73.7629527)
-Baga Beach , (15.5556936, 73.75164699999999)
-Reis Magos Fort , None
-Colva Beach , (15.2806417, 73.9113651)
-St. Alex Church , None
-Fort Aguada , (15.4920556, 73.7740778)
-Anjuna Market , (15.5794752, 73.7475508)
-Deltin Royale Casino , None
-Anjuna Beach , (15.5735995, 73.7407065)
-Cansaulim Beach , (15.5183861, 73.7654787)
-Fontainhas , (38.7215131, -9.410376699999999)
-Mangeshi Temple , (15.4481986, 73.96858569999999)
-Calangute Beach , (15.549441, 73.7534857)
-Church of St. Francis of Assissi , (-20.3868142, -43.5027534)
-Mobor Beach , (15.1563886, 73.9457178)
-Betalbatim Beaches , (15.2926227, 73.9078744)
-Fort Aguada Lighthouse , (15.4919312, 73.7726119)
-Dona Paula Beach , (15.4532717, 73.80128549999999)
-Miramar Beach , (15.480617, 73.8073429)
-Galgibaga Beach , (14.9600472, 74.04956539999999)
-Sahakari Spice Farm , None
-Casino Royale Goa , None
-Chapora Beach , (15.606325, 73.7402468)
-Cabo de Rama Fort , None
-Mapusa Friday Bazaar , None
-Ozran Beach , (15.5937238, 73.7344545)
-Patnem-Colomb Beach , None
-Tropical Spice Plantation , (15.4443489, 74.0103254)
-St. Cajetan's Church , None
-Church and Monastery of St Augustine , None
-Margao Market , (15.2826122, 73.9576572)
-Reis Magos Fort , None
-Bogmalo Beach , (15.3698038, 73.8336358)
-Galjibaga Beach , (14.9600472, 74.04956539999999)
-Naval Aviation Museum , None
-Church of the Immaculate Conception of the Virgin Mary , None
-Church of Holy Spirit , (15.2816367, 73.95917759999999)
-Tanshikar's Working Organic Spice Farm , None
-Palacio do Deao , None
-Shri Mahalasa Temple , None
-Mae De Deus Church , None
-Coco Beach , (15.5006335, 73.7848234)
-Dr. Salim Ali Bird Sanctuary , (15.5151739, 73.8564907)
-Casino Palms , None
-Panaji Kala Academy , (15.4909301, 73.8278496)
-Chapel of Our Lady of the Mount , None
-Butterfly Beach , (15.0193235, 74.0018264)
-Rock Formations , None
-Viceroy's Arch , None
-Church of St. John the Baptist , None
-Casino Carnival Goa , None
-Divar Island , (15.5276933, 73.9065883)
-Vainguinim Beach , (15.4555962, 73.8134175)
-Arossim Beach , (15.3332653, 73.89372709999999)
-Ashwen Beach , (15.6437966, 73.71740249999999)
-The Zuri White Sands Casino , None
-Fort Aguada Beach , (15.5128232, 73.7688668)
-Church Square , (15.5379106, 73.8301668)
-S2 beach shacks , None
-Mahadeva Temple , (15.7341296, 73.7192341)
-Menezes Braganza House , None
-Shri Naguesh Temple , None
-Goa - Chitra , (15.2993265, 74.12399599999999)
-Panaji State Central Library , (15.4909301, 73.8278496)
-Museum of Goa , None
-The Cabo Palace , None
-Fort Terekhol , None
-Sunaparanta , None
-Paliem Lake , None
-The Mallikarjun Temple , None
-Mahalaxmi Temple , (15.2781375, 73.9262)
-Champions Beach Club , None
-Bhagwan Mahavir Wildlife Sanctuary , None
-Chapel of St Catherine , None
-Panjim Heritage Walk , (15.4909301, 73.8278496)
-Kegdole Beach , (-8.1441971, 111.0084132)
-Houses of Goa Museum , None
-Sri Ramnath Temple , None
-Velsao Beach , (15.3518826, 73.8863775)
-St. Michael's Church , None
-Tibetan Market , None
-Sugar Shack , None
-Bigfoot Cross Museum , None
-Rajbagh Beach , (14.9850204, 74.03845799999999)
-Casino Pride , None
-Goa State Museum , (15.2993265, 74.12399599999999)
-Sunset Beach , (15.3012749, 73.90493479999999)
-Bondla Wildlife Sanctuary , (14.9760305, 74.2061931)
-Betul Beach , (15.1464602, 73.9481058)
-Gallery Gitanjali , None
-Coco Beach , (15.5006335, 73.7848234)
-Ancestral Goa , (15.417975, 73.97192299999999)
-Mahalaxmi Temple , (15.2781375, 73.9262)
-Holiday Street , (15.5332323, 73.7615563)
-Arvalam Waterfalls , None
-Caculo Mall , None
-Butterfly Conservatory Of Goa , (15.4295587, 74.0124491)
-Carpe Diem , None
-Splashdown Waterpark Goa , None
-Paliem Beach , (15.0099648, 74.02321859999999)
-Cheshire Cat Gallery , (41.5083668, -72.9106202)
-Our Lady of Grace Church , None
-Sahyadri Spice Farm , None
-Sri Damodar Temple , None
-Mackie’s Saturday Nite Bazaar , None
-Goa Science Centre , (15.2993265, 74.12399599999999)
-Shri Mangesh Devasthan , None
-St. Augustine's Tower , (15.5004759, 73.9063836)
-Salaulim Dam , (15.1764109, 74.19151769999999)
-Cabo Fort , None
-Sernabatim Beach , (15.2667239, 73.91503949999999)
-Bishop's Palace , None
-Odxel Beach , (15.4537162, 73.82986799999999)
-Casa Araujo Alvares , None
-Our Lady of Mount Carmel Church , None
-Rachol Seminary , (15.3112491, 73.99837649999999)
-Chorao Island , (15.5404344, 73.88487649999999)
-Museum of Christian Art , None
-Netravali Waterfall , None
-Anjum Beach , (15.5735995, 73.7407065)
-Crown Casino , None
-Vasco's Municipal Market , (15.4988711, 73.8220694)
-The Archaeological Museum , None
-St. Andrews Church , (22.5730913, 88.3508705)
-Sri Chandranath Temple , None
-Kalacha Beach , (15.6979866, 73.6971224)
-Saptakoteshwar Temple , None
-Bodhgeshwar Temple , None
-Margao Municipal Park , (15.2742891, 73.9578409)
-Talpona Beach , (14.9780088, 74.0419464)
-Baina Beach , (15.3915832, 73.80680009999999)
-Chances Casino and Club , None
-Tambadi Surla Mahadev Temple , None
-Japnese Garden , (15.4069725, 73.7871306)
-Zuari River , (15.4057505, 73.9286341)
-Caranzalem Beach , (15.4664874, 73.8047781)
-Kerkar Art Complex , None
-Sri Chandreshwar Temple , None
-San Thome Museum: Back in Time , None
-Redi Ganpati Temple , None
-Church of Reis Magos , (15.498333, 73.829444)
-Hollant Beach , (15.3698314, 73.86186909999999)
-Cotigao Wildlife Sanctuary , (14.9760305, 74.2061931)
-Chapoli Dam , (15.0250504, 74.0483721)
-Gonsua Beach , (15.3126461, 73.9077533)
-Three Kings Chapel , None
-Conco Island , None
-Mayem Lake , (15.5760152, 73.9400234)
-Sri Bhagavati Temple , None
-Safa Mosque , None
-Sao Tome Old Quarter , None
-Kuskem Waterfall , None
-Blue Whale Water Park , (15.5690863, 73.75346739999999)
-Corjuem Fort , None
-Cotigo Wildlife Sanctuary , (14.9760305, 74.2061931)
-Azad Maidan , (15.500125, 73.82619199999999)
-Baga Retreat House , None
-Laxmi Narasimha Temple , None
-abyss-marine-aquarium , None
-Burnzam Ghor , (33.3877986, -84.5501379)
-Bamanbudo Waterfall , None
-Casino Pearl , None
-Christ Rei Chapel , None
-Sao Jacinto Island , (15.4058832, 73.8632243)
-Prehistoric Rock Art Gallery , None
-Acorn Arcade , None
-Kerim Beach , (15.7192093, 73.6900414)
-Mandovi RIver , (15.5006937, 73.9696219)
-Pilot Point , None
-Gateway of the Palace of Yusuf Adil Shah , None
-Casino Paradise , None
-Mhadei Wildlife Sanctuary , (15.5685731, 74.22967129999999)
-Statue of Abbe Faria , (15.5007458, 73.8294125)
-Mario Gallery , None
-Sweet Water Lake , (15.697879, 73.698042)
-Partagal Matha Temple , None
-Campal Gardens , (15.49806, 73.818748)
-Sri Devaki Krishna Temple , None
-Shri Mahalasa Narayani Prasanna , None
-Jorge Barreto Park , None
-Canaguinim Beach , (15.1269262, 73.9402071)
-Shri Saunsthan Gokarn Partagali Jeevotham Math , (14.9928871, 74.1065611)
-Jogger's Park , (15.2880687, 73.9628886)
-Church of Our Lady of Rosary , None
-Indologie - The Alternative Indian Art Store , None
-Safa Shahouri Masjid , None
-Hansa Beach , (15.3761369, 73.81378509999999)
-Siridao Beach , (15.4444625, 73.8557817)
-Sri Nagueshi Temple , None
-Mormugao Fort , (15.3994341, 73.7913128)
-St Sebastian Chapel , (15.4422683, 74.04906869999999)
-Our Lady of Monte Chapel , None
-Bogmala Beach , (15.3698038, 73.8336358)
-Sultan Jewellers , None
-Ali Babas Cave , None
-Marivel Beach , (15.456096, 73.7975171)
-Rachol Fort , None
-Monte Hill , None
-St Monica Church , None
-Sri Kalika Temple , None
-Sunburn Goa , (15.5502494, 73.75899009999999)
-Cricketers Multi Cusion , None
-Anjadip Island , None
-Goa Animal Welfare Trust , (15.2993265, 74.12399599999999)
-Bambolim Beach , (15.4521897, 73.8487063)
-Netravali Wildlife Sanctuary , (15.1155175, 74.2531465)
-Shri Navdurga Temple , None
-Issorcim Beach , (15.3734561, 73.8566087)
-Zalor Beach , None
-Church Of St Anne At Talaulim , None
-Cabo Raj Bhavan , None
-Velsao Chapel , None
-Atreya Vedic and Spice Plantation , None
-Cansaulim Church , (15.3906475, 73.9119801)
-Jardim Garcia de Orta , (15.4997434, 73.8282138)
-Monsoon Heritage Studio , None
-The Church of Our Lady of Socorro , None
-Nossa Senhora de Penha de Franca , (15.5516997, 73.78175329999999)
-Nehru Stadium , None
-Devils Canyon , None
-Goa University , (15.4584136, 73.83455479999999)
-Shirr Purchevo Ravalnatha Temple , None
-Institute Menezes Braganza , None
-Maruti Temple , (15.2763329, 73.9815796)
-Chapel of St Lawrence , None
-Ashvek Vintage World , None
-Dr. Alvaro Loyola Furtado Mansion , None
-Achies Art Gallery , None
-Shree Shantadurga Kunkalikarin Temple , None
-Rivona Buddhist Caves , None
-Public Observatory , None
-Jama Masjid Margao , (15.2707109, 73.9629906)
-Sri Ananta Temple , None
-Dias Beach , (15.4532717, 73.80128549999999)
-Church of Nossa Senhora de Monte , None
-Pilar Museum , None
-Ruins of Nossa Senhora de Saude , None
-The Our Lady of Assumption Church , (15.3552103, 73.89060359999999)
-St Rita's Church , (15.2908725, 74.007014)
-Our Lady Of Health Church , None
-Sarzora Lake , (15.2186415, 74.0046727)
-Kristu Kala Mandir Art Gallery , None
-Secretariat Building , None
-Namazgah , None
-Shantadurga Kalangutkarin Temple , None
-Rustic Plantation , None
-Vivian Coutinho Mansion , None
-Royal Chapel of St Anthony , (15.5006988, 73.9056926)
-Tilak Maidan Stadium , None
-Pandava's Drum , None
-Cabo Chapel , None
-Big G , (15.272394, 73.96267739999999)
-Big G Mall , (61.635506, -149.0467736)
-Vainguinim Beach , (15.4555962, 73.8134175)
-Wax World Museum , None
-Snow Park , None
-Apna Bazaar , (15.2742265, 73.9588052)
-British Cemetery , (15.4582392, 73.7977009)
-Monkey Beach , None
-Froggyland , None
-Goa Fish Museum , (15.2993265, 74.12399599999999)
-Goa's Ark , (33.494996, -84.3001908)
-St Rita's Church , (15.2908725, 74.007014)
-Treasures Casino , None
-Winners Casino and Hacienda de ora , None
-San Antonio Island , (29.4241219, -98.49362819999999)
-Vimaleshwar Temple , None
-Gallery Attic , None
-Kesarval Spring , None
-Pinto De Rosario Mansion , None
-Sri Morjee Temple , None
-Shree Sanusthan Gokarn Parthagali Jeevotham Math , None
-The Secretariat , None
-Galjibag Beach , (14.9600472, 74.04956539999999)
+Agonda Beach,15.0437626,73.9857577
+Palolem Beach,15.0099648,74.02321859999999
+Mandrem Beach,None
+Cavelossim Beach,15.1715011,73.941493
+Varca Beach,15.2209348,73.9290015
+Benaulim Beach,15.2570626,73.91871379999999
+Basilica of Bom Jesus,None
+Arambol Beach,15.6846886,73.70328359999999
+Utorda Beach,15.3180882,73.8996066
+Dudhsagar Falls,15.3144691,74.314067
+Morjim,15.6316233,73.7389596
+Ashwem Beach,15.6437966,73.71740249999999
+Cola Beach,15.0645446,73.9712454
+Old Goa,15.5027745,73.9154069
+Candolim Beach,15.5183861,73.7654787
+Vagator Beach,15.6029835,73.733627
+Majorda Beach,15.3111553,73.9018114
+Tomb of St. Francis Xavier,None
+Baga Beach,15.5556936,73.75164699999999
+Church of Our Lady of the Immaculate Conception,15.498333,73.829444
+Se Cathedral,None
+Shantadurga Temple,15.2604729,73.97592639999999
+Chapora Fort,15.620702,73.74484369999999
+Sinquerim Beach,15.5302398,73.7629527
+Baga Beach,15.5556936,73.75164699999999
+Reis Magos Fort,None
+Colva Beach,15.2806417,73.9113651
+St. Alex Church,None
+Fort Aguada,15.4920556,73.7740778
+Anjuna Market,15.5794752,73.7475508
+Deltin Royale Casino,None
+Anjuna Beach,15.5735995,73.7407065
+Cansaulim Beach,15.5183861,73.7654787
+Fontainhas,38.7215131,-9.410376699999999
+Mangeshi Temple,15.4481986,73.96858569999999
+Calangute Beach,15.549441,73.7534857
+Church of St. Francis of Assissi,-20.3868142,-43.5027534
+Mobor Beach,15.1563886,73.9457178
+Betalbatim Beaches,15.2926227,73.9078744
+Fort Aguada Lighthouse,15.4919312,73.7726119
+Dona Paula Beach,15.4532717,73.80128549999999
+Miramar Beach,15.480617,73.8073429
+Galgibaga Beach,14.9600472,74.04956539999999
+Sahakari Spice Farm,None
+Casino Royale Goa,None
+Chapora Beach,15.606325,73.7402468
+Cabo de Rama Fort,None
+Mapusa Friday Bazaar,None
+Ozran Beach,15.5937238,73.7344545
+Patnem-Colomb Beach,None
+Tropical Spice Plantation,15.4443489,74.0103254
+St. Cajetan's Church,None
+Church and Monastery of St Augustine,None
+Margao Market,15.2826122,73.9576572
+Reis Magos Fort,None
+Bogmalo Beach,15.3698038,73.8336358
+Galjibaga Beach,14.9600472,74.04956539999999
+Naval Aviation Museum,None
+Church of the Immaculate Conception of the Virgin Mary,None
+Church of Holy Spirit,15.2816367,73.95917759999999
+Tanshikar's Working Organic Spice Farm,None
+Palacio do Deao,None
+Shri Mahalasa Temple,None
+Mae De Deus Church,None
+Coco Beach,15.5006335,73.7848234
+Dr. Salim Ali Bird Sanctuary,15.5151739,73.8564907
+Casino Palms,None
+Panaji Kala Academy,15.4909301,73.8278496
+Chapel of Our Lady of the Mount,None
+Butterfly Beach,15.0193235,74.0018264
+Rock Formations,None
+Viceroy's Arch,None
+Church of St. John the Baptist,None
+Casino Carnival Goa,None
+Divar Island,15.5276933,73.9065883
+Vainguinim Beach,15.4555962,73.8134175
+Arossim Beach,15.3332653,73.89372709999999
+Ashwen Beach,15.6437966,73.71740249999999
+The Zuri White Sands Casino,None
+Fort Aguada Beach,15.5128232,73.7688668
+Church Square,15.5379106,73.8301668
+S2 beach shacks,None
+Mahadeva Temple,15.7341296,73.7192341
+Menezes Braganza House,None
+Shri Naguesh Temple,None
+Goa - Chitra,15.2993265,74.12399599999999
+Panaji State Central Library,15.4909301,73.8278496
+Museum of Goa,None
+The Cabo Palace,None
+Fort Terekhol,None
+Sunaparanta,None
+Paliem Lake,None
+The Mallikarjun Temple,None
+Mahalaxmi Temple,15.2781375,73.9262
+Champions Beach Club,None
+Bhagwan Mahavir Wildlife Sanctuary,None
+Chapel of St Catherine,None
+Panjim Heritage Walk,15.4909301,73.8278496
+Kegdole Beach,-8.1441971,111.0084132
+Houses of Goa Museum,None
+Sri Ramnath Temple,None
+Velsao Beach,15.3518826,73.8863775
+St. Michael's Church,None
+Tibetan Market,None
+Sugar Shack,None
+Bigfoot Cross Museum,None
+Rajbagh Beach,14.9850204,74.03845799999999
+Casino Pride,None
+Goa State Museum,15.2993265,74.12399599999999
+Sunset Beach,15.3012749,73.90493479999999
+Bondla Wildlife Sanctuary,14.9760305,74.2061931
+Betul Beach,15.1464602,73.9481058
+Gallery Gitanjali,None
+Coco Beach,15.5006335,73.7848234
+Ancestral Goa,15.417975,73.97192299999999
+Mahalaxmi Temple,15.2781375,73.9262
+Holiday Street,15.5332323,73.7615563
+Arvalam Waterfalls,None
+Caculo Mall,None
+Butterfly Conservatory Of Goa,15.4295587,74.0124491
+Carpe Diem,None
+Splashdown Waterpark Goa,None
+Paliem Beach,15.0099648,74.02321859999999
+Cheshire Cat Gallery,41.5083668,-72.9106202
+Our Lady of Grace Church,None
+Sahyadri Spice Farm,None
+Sri Damodar Temple,None
+Mackie’s Saturday Nite Bazaar,None
+Goa Science Centre,15.2993265,74.12399599999999
+Shri Mangesh Devasthan,None
+St. Augustine's Tower,15.5004759,73.9063836
+Salaulim Dam,15.1764109,74.19151769999999
+Cabo Fort,None
+Sernabatim Beach,15.2667239,73.91503949999999
+Bishop's Palace,None
+Odxel Beach,15.4537162,73.82986799999999
+Casa Araujo Alvares,None
+Our Lady of Mount Carmel Church,None
+Rachol Seminary,15.3112491,73.99837649999999
+Chorao Island,15.5404344,73.88487649999999
+Museum of Christian Art,None
+Netravali Waterfall,None
+Anjum Beach,15.5735995,73.7407065
+Crown Casino,None
+Vasco's Municipal Market,15.4988711,73.8220694
+The Archaeological Museum,None
+St. Andrews Church,22.5730913,88.3508705
+Sri Chandranath Temple,None
+Kalacha Beach,15.6979866,73.6971224
+Saptakoteshwar Temple,None
+Bodhgeshwar Temple,None
+Margao Municipal Park,15.2742891,73.9578409
+Talpona Beach,14.9780088,74.0419464
+Baina Beach,15.3915832,73.80680009999999
+Chances Casino and Club,None
+Tambadi Surla Mahadev Temple,None
+Japnese Garden,15.4069725,73.7871306
+Zuari River,15.4057505,73.9286341
+Caranzalem Beach,15.4664874,73.8047781
+Kerkar Art Complex,None
+Sri Chandreshwar Temple,None
+San Thome Museum: Back in Time,None
+Redi Ganpati Temple,None
+Church of Reis Magos,15.498333,73.829444
+Hollant Beach,15.3698314,73.86186909999999
+Cotigao Wildlife Sanctuary,14.9760305,74.2061931
+Chapoli Dam,15.0250504,74.0483721
+Gonsua Beach,15.3126461,73.9077533
+Three Kings Chapel,None
+Conco Island,None
+Mayem Lake,15.5760152,73.9400234
+Sri Bhagavati Temple,None
+Safa Mosque,None
+Sao Tome Old Quarter,None
+Kuskem Waterfall,None
+Blue Whale Water Park,15.5690863,73.75346739999999
+Corjuem Fort,None
+Cotigo Wildlife Sanctuary,14.9760305,74.2061931
+Azad Maidan,15.500125,73.82619199999999
+Baga Retreat House,None
+Laxmi Narasimha Temple,None
+abyss-marine-aquarium,None
+Burnzam Ghor,33.3877986,-84.5501379
+Bamanbudo Waterfall,None
+Casino Pearl,None
+Christ Rei Chapel,None
+Sao Jacinto Island,15.4058832,73.8632243
+Prehistoric Rock Art Gallery,None
+Acorn Arcade,None
+Kerim Beach,15.7192093,73.6900414
+Mandovi RIver,15.5006937,73.9696219
+Pilot Point,None
+Gateway of the Palace of Yusuf Adil Shah,None
+Casino Paradise,None
+Mhadei Wildlife Sanctuary,15.5685731,74.22967129999999
+Statue of Abbe Faria,15.5007458,73.8294125
+Mario Gallery,None
+Sweet Water Lake,15.697879,73.698042
+Partagal Matha Temple,None
+Campal Gardens,15.49806,73.818748
+Sri Devaki Krishna Temple,None
+Shri Mahalasa Narayani Prasanna,None
+Jorge Barreto Park,None
+Canaguinim Beach,15.1269262,73.9402071
+Shri Saunsthan Gokarn Partagali Jeevotham Math,14.9928871,74.1065611
+Jogger's Park,15.2880687,73.9628886
+Church of Our Lady of Rosary,None
+Indologie - The Alternative Indian Art Store,None
+Safa Shahouri Masjid,None
+Hansa Beach,15.3761369,73.81378509999999
+Siridao Beach,15.4444625,73.8557817
+Sri Nagueshi Temple,None
+Mormugao Fort,15.3994341,73.7913128
+St Sebastian Chapel,15.4422683,74.04906869999999
+Our Lady of Monte Chapel,None
+Bogmala Beach,15.3698038,73.8336358
+Sultan Jewellers,None
+Ali Babas Cave,None
+Marivel Beach,15.456096,73.7975171
+Rachol Fort,None
+Monte Hill,None
+St Monica Church,None
+Sri Kalika Temple,None
+Sunburn Goa,15.5502494,73.75899009999999
+Cricketers Multi Cusion,None
+Anjadip Island,None
+Goa Animal Welfare Trust,15.2993265,74.12399599999999
+Bambolim Beach,15.4521897,73.8487063
+Netravali Wildlife Sanctuary,15.1155175,74.2531465
+Shri Navdurga Temple,None
+Issorcim Beach,15.3734561,73.8566087
+Zalor Beach,None
+Church Of St Anne At Talaulim,None
+Cabo Raj Bhavan,None
+Velsao Chapel,None
+Atreya Vedic and Spice Plantation,None
+Cansaulim Church,15.3906475,73.9119801
+Jardim Garcia de Orta,15.4997434,73.8282138
+Monsoon Heritage Studio,None
+The Church of Our Lady of Socorro,None
+Nossa Senhora de Penha de Franca,15.5516997,73.78175329999999
+Nehru Stadium,None
+Devils Canyon,None
+Goa University,15.4584136,73.83455479999999
+Shirr Purchevo Ravalnatha Temple,None
+Institute Menezes Braganza,None
+Maruti Temple,15.2763329,73.9815796
+Chapel of St Lawrence,None
+Ashvek Vintage World,None
+Dr. Alvaro Loyola Furtado Mansion,None
+Achies Art Gallery,None
+Shree Shantadurga Kunkalikarin Temple,None
+Rivona Buddhist Caves,None
+Public Observatory,None
+Jama Masjid Margao,15.2707109,73.9629906
+Sri Ananta Temple,None
+Dias Beach,15.4532717,73.80128549999999
+Church of Nossa Senhora de Monte,None
+Pilar Museum,None
+Ruins of Nossa Senhora de Saude,None
+The Our Lady of Assumption Church,15.3552103,73.89060359999999
+St Rita's Church,15.2908725,74.007014
+Our Lady Of Health Church,None
+Sarzora Lake,15.2186415,74.0046727
+Kristu Kala Mandir Art Gallery,None
+Secretariat Building,None
+Namazgah,None
+Shantadurga Kalangutkarin Temple,None
+Rustic Plantation,None
+Vivian Coutinho Mansion,None
+Royal Chapel of St Anthony,15.5006988,73.9056926
+Tilak Maidan Stadium,None
+Pandava's Drum,None
+Cabo Chapel,None
+Big G,15.272394,73.96267739999999
+Big G Mall,61.635506,-149.0467736
+Vainguinim Beach,15.4555962,73.8134175
+Wax World Museum,None
+Snow Park,None
+Apna Bazaar,15.2742265,73.9588052
+British Cemetery,15.4582392,73.7977009
+Monkey Beach,None
+Froggyland,None
+Goa Fish Museum,15.2993265,74.12399599999999
+Goa's Ark,33.494996,-84.3001908
+St Rita's Church,15.2908725,74.007014
+Treasures Casino,None
+Winners Casino and Hacienda de ora,None
+San Antonio Island,29.4241219,-98.49362819999999
+Vimaleshwar Temple,None
+Gallery Attic,None
+Kesarval Spring,None
+Pinto De Rosario Mansion,None
+Sri Morjee Temple,None
+Shree Sanusthan Gokarn Parthagali Jeevotham Math,None
+The Secretariat,None
+Galjibag Beach,14.9600472,74.04956539999999

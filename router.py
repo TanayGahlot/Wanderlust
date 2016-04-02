@@ -18,6 +18,16 @@ class Location():
 		self.score = 0
 		self.timeToSpend = timeToSpend
 		self.greedyScore = 0
+	def __str__(self):
+		data = {}
+		data["name"] = self.name  
+		data["description"] = self.description 
+		data["latitude"] = self.latitude 
+		data["longitude"] = self.longitude 
+		data["rating"] = self.rating
+		data["categories"] = self.categories 
+		data["timeToSpend"] = self.timeToSpend
+		return json.dumps(data)
 
 def parseLocationsFile(fileName):
 	fob = open(fileName)
@@ -43,15 +53,25 @@ class Path():
 	def add(self, location, travelTime):
 		self.epoch.append(travelTime + location.timeToSpend)
 		self.locations.append(location)
-	def __str__(self):
-		response = ""
+	def objectify(self):
+		dataObject = []
 		i=0
 		time = 0
 		for location in self.locations:
-			time += self.epoch[i]/60.0
-			response += location.name + "("+ str(time) + ")-> "
+			time += self.epoch[i]
+			data = {}
+			data["name"] = location.name  
+			data["description"] = location.description 
+			data["latitude"] = location.latitude 
+			data["longitude"] = location.longitude 
+			data["rating"] = location.rating
+			data["categories"] = location.categories 
+			data["timeToSpend"] = location.timeToSpend
+			data ["time"] = time 
 			i+=1
-		return response[:-3] 
+			dataObject.append(data)
+		return dataObject
+
 
 
 def computeScore(location, interest):
@@ -163,7 +183,7 @@ def route(Locations, T, startLocation, speed):
 			if location.greedyScore > maxScore:
 				maxScore = location.greedyScore
 				maxScoreLocation = location
-		print "current - startLocation", computeTime(current, startLocation, speed)
+		
 		T -= computeTime(current, maxScoreLocation, speed) #edge time 
 		T += computeTime(current, startLocation, speed) #removing time to go back from current location to start time 
 		T -= computeTime(maxScoreLocation, startLocation, speed) #adding time to go back from  new location to start location 
@@ -171,7 +191,6 @@ def route(Locations, T, startLocation, speed):
 		
 		Locations.remove(maxScoreLocation)
 		if T>0:
-			print T/60.0, maxScoreLocation.name, travelTime/60.0, computeTime(maxScoreLocation, startLocation, speed)/60.0
 			path.add(maxScoreLocation, travelTime)
 		current = maxScoreLocation
 
@@ -185,14 +204,14 @@ latitude = float(sys.argv[4])
 longitude = float(sys.argv[5])
 
 locations = parseLocationsFile(fileName)
-interest = [" Sights & Landmarks"] #for demo------
+interest = ['Historic Walking Areas', 'Bodies of Water'] #for demo------
 for location in locations:
 	location.score = computeScore(location, interest)
 
 startLocation = Location("start", "", latitude, longitude, '', [], '')
 path = route(locations, T, startLocation, speed)
 
-print path 
+print json.dumps(path.objectify())
 
 
 

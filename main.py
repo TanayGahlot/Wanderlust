@@ -12,6 +12,7 @@ import random
 import json
 import ast
 import logging
+from random import randrange
 import webapp2
 import jinja2
 from google.appengine.ext import ndb
@@ -54,7 +55,7 @@ def parseLocationsFile(fileName):
         longitude= float(item["longitude"])
         rating = float(item["rating"])
         categories= item["categories"]
-        timeToSpend = 3600 #to spend an hour at the least 
+        timeToSpend = randrange(15*60, 120*60) #to spend an hour at the least 
         location = Location(name,  description, latitude, longitude, rating, categories, timeToSpend)
         locations.append(location)
     return locations
@@ -86,6 +87,15 @@ class Path():
             dataObject.append(data)
         return dataObject
 
+def parseMapingFile(filename):
+    fob = open(filename)
+    text = fob.read()
+    categories = text.split("\n\n")
+    maping = {}
+    for category in categories:
+        lines = category.split("\n")
+        maping[lines[0][1:]] = lines[1:]
+    return maping 
 
 
 def computeScore(location, interest):
@@ -162,19 +172,25 @@ def route(Locations, T, startLocation, speed):
 #parsing all input arguments 
 fileName = "./data/goa.json"
 locations = parseLocationsFile(fileName)
-
+mapping = parseMapingFile("./data/classes.txt")
 
 
 
 
 class MainHandler(webapp2.RequestHandler):
     def post(self):
+        logging.debug("Dekho: " + self.request.get("T") )
         T = float(self.request.get("T")) #in seconds 
-        interest = self.request.get("interest").split("\t")
+        primaryInterest = self.request.get("interest").split("\t")
         latitude = float(self.request.get("latitude"))
         longitude = float(self.request.get("longitude"))
         speed = 20
         localLocations = deepcopy(locations)
+        
+        interest = []
+        for prime in primaryInterest:
+            interest.extend(mapping[prime])
+
         for location in localLocations:
             location.score = computeScore(location, interest)
         startLocation = Location("start", "", latitude, longitude, '', [], '')

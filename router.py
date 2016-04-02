@@ -179,6 +179,8 @@ def route(Locations, T, startLocation, speed):
 		travelTime = 0
 		for location in Locations:
 			travelTime = computeTime(current, location, speed)
+			if travelTime == 0:
+                travelTime = 5
 			location.greedyScore = location.score*1.0/travelTime
 			if location.greedyScore > maxScore:
 				maxScore = location.greedyScore
@@ -210,9 +212,4 @@ for location in locations:
 
 startLocation = Location("start", "", latitude, longitude, '', [], '')
 path = route(locations, T, startLocation, speed)
-
-print json.dumps(path.objectify())
-
-
-
 

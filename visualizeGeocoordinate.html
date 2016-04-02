@@ -1,34 +1,4 @@
-#oggpnosn 
-#hkhr 
-
-#testing backend 
-
-from urllib import urlencode
-from urllib2 import urlopen
-from urllib2 import Request
-import json
-import sys 
-import json 
-
-
-
-data = {'T': 18000,
- 'interest': 'Sights & Landmarks',
- 'latitude': 15.2826122,
- 'longitude': 73.9576572}
-
-# url = "http://localhost:8000/"
-url = "http://wunderlust-c7579.appspot.com/"
-
-request = Request(url, data=urlencode(data))
-response = urlopen(request)
-data = json.loads(response.read())
-print data
-latlng = []
-for location in data:
-    latlng.append({"lat": location["latitude"], "lng": location["longitude"]})
-
-text = """ 
+ 
 <!DOCTYPE html>
 <html>
   <head>
@@ -52,7 +22,7 @@ text = """
 
       // This example adds a marker to indicate the position of Bondi Beach in Sydney,
       // Australia.
-      var ambulances = BAZINGA ;
+      var ambulances = [{'lat': 15.2826122, 'lng': 73.9576572}, {'lat': 15.2816367, 'lng': 73.95917759999999}, {'lat': 15.2707109, 'lng': 73.9629906}, {'lat': 15.2604729, 'lng': 73.97592639999999}, {'lat': 15.2763329, 'lng': 73.9815796}] ;
       function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 12,
@@ -74,14 +44,3 @@ text = """
     </script>
   </body>
 </html>
-"""
-
-text = text.replace("BAZINGA", str(latlng))
-fob = open("visualizeGeocoordinate.html", "w")
-fob.write(text)
-fob.close()
-
-from subprocess import call 
-call(["open", "visualizeGeocoordinate.html"])
-
-
